@@ -34,8 +34,9 @@ int main() {
     
     mySchoolBus.numberOfPassengers = 50;
 
-    cout << "--- Meri Bus Ki Details ---" << endl;
+    cout << "--- MY BUS DETAILS ---" << endl;
     mySchoolBus.showBusInfo();
 
     return 0;
 }
+
